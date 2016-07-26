@@ -1,0 +1,7 @@
+## Interface: 70000
+## Title: LibDataBroker-1.1
+## Author: Tekkub
+## Version: 1.1
+## OptionalDeps: CallbackHandler-1.0
+
+LibDataBroker-1.1.lua

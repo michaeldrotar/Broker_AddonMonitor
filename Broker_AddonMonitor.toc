@@ -1,0 +1,15 @@
+## Interface: 70000
+## Title: Broker Addon Monitor
+## Notes: Monitors addon memory and cpu usage in an organized format
+## Author: michaeldrotar
+## Version: 1.0.0
+## OptionalDeps: Ace3, CallbackHandler-1.0, LibDataBroker-1.1, LibQTip-1.0, LibStub
+
+Libs\LibStub\LibStub.lua
+Libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
+Libs\LibDataBroker-1.1\LibDataBroker-1.1.lua
+Libs\AceLocale-3.0\AceLocale-3.0.lua
+Lib\LibQTip-1.0\LibQTip-1.0.lua
+
+Locales\enUS.lua
+Core.lua
