@@ -2,7 +2,7 @@
 ## Title: Broker Addon Monitor
 ## Notes: Monitors addon memory and cpu usage in an organized format
 ## Author: michaeldrotar
-## Version: 1.0.0
+## Version: 1.0.1
 ## OptionalDeps: Ace3, CallbackHandler-1.0, LibDataBroker-1.1, LibQTip-1.0, LibStub
 
 Libs\LibStub\LibStub.lua
