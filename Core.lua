@@ -223,7 +223,7 @@ function update()
           tooltip:AddLine("")
         end
       end
-      tooltip:AddLine(format(L["%s addons"], #addons - totals.children)) -- totals
+      tooltip:AddLine(format(L["%d addons"], #addons - totals.children)) -- totals
     end
 
     local highest, lowest, range, ratio
